@@ -1,4 +1,4 @@
-### <div align="center">Full-stack developer with back-end preference</div>  
+## <div align="center">Full-stack developer with back-end preference</div>  
   
 
 - 🔨 I worked on [Demos App](https://github.com/migala-dev). An application for worker self-organization in cooperatives (coops)  
