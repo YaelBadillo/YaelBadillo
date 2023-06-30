@@ -1,7 +1,7 @@
 ## <div align="center">Full-stack developer with back-end preference</div>  
   
 
-- 🔨 I worked on [Demos App](https://github.com/migala-dev). An application for worker self-organization in cooperatives (coops)  
+- 🔨 I worked on [Demos App](https://github.com/migala-dev). An open source application for worker self-organization in cooperatives (coops)  
   
 
 - 💬 I’m currently working on Chat Group App ([Frondend](https://github.com/YaelBadillo/chat-group-web-app) and [Backend](https://github.com/YaelBadillo/chat-group-service) repositories). A real-time group chat application  
