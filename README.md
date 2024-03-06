@@ -84,5 +84,6 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YaelBadillo&theme=swift" align="center" />
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YaelBadillo&theme=swift" align="center" />
     </div>
+  ![YaelBadillo's Stats](https://github-readme-stats.vercel.app/api?username=YaelBadillo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 </div>
 <br />
