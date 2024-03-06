@@ -78,6 +78,7 @@
 
 
 ## Github Stats  
+![YaelBadillo's Stats](https://github-readme-stats.vercel.app/api?username=YaelBadillo&theme=default&show_icons=true&hide_border=true&count_private=true)
 <div style="display: flex; flex-direction: column; gap: 20px;">
     <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YaelBadillo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" align="center" /></div>
     <div align="center" style="display: flex; justify-content: center; gap: 20px;">
