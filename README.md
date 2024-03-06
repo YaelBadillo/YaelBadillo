@@ -78,12 +78,9 @@
 
 
 ## Github Stats  
-![YaelBadillo's Stats](https://github-readme-stats.vercel.app/api?username=YaelBadillo&theme=default&show_icons=true&hide_border=true&count_private=true)
 <div style="display: flex; flex-direction: column; gap: 20px;">
-    <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YaelBadillo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" align="center" /></div>
-    <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YaelBadillo&theme=swift" align="center" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YaelBadillo&theme=swift" align="center" />
-    </div>
+    <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YaelBadillo&theme=default&show_icons=true&hide_border=true&count_private=true" align="center" /></div>
+    <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YaelBadillo&theme=default&hide_border=true" /></div>
+    <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaelBadillo&theme=default&show_icons=true&hide_border=true&layout=compact" /></div>
 </div>
 <br />
