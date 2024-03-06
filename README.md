@@ -79,8 +79,5 @@
 
 ## Github Stats  
 <div style="display: flex; flex-direction: column; gap: 20px;">
-    <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YaelBadillo&theme=default&show_icons=true&hide_border=true&count_private=true" align="center" /></div>
-    <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YaelBadillo&theme=default&hide_border=true" /></div>
-    <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaelBadillo&theme=default&show_icons=true&hide_border=true&layout=compact" /></div>
 </div>
 <br />
