@@ -1,13 +1,13 @@
 ## <div align="center">Full-stack engineer with Back-end preference</div>  
   
 
-- 🗓️ I worked on [Demos App](https://github.com/migala-dev). An application for worker self-organization    
+- 🗓️ I worked on [Demos App](https://github.com/migala-dev). An application for worker self-organization.    
   
 
-- ✅ I’m currently working on [Task Management App](https://github.com/YaelBadillo/task-management). A real-time task management application for work teams  
+- ✅ I’m currently working on [Task Management App](https://github.com/YaelBadillo/task-management). A real-time task management application for work teams.  
   
 
-- 💬 I’m currently working on Chat Group App ([Frondend](https://github.com/YaelBadillo/chat-group-web-app) and [Backend](https://github.com/YaelBadillo/chat-group-service) repositories). A real-time group chat application 
+- 💬 I’m currently working on Chat Group App ([Frondend](https://github.com/YaelBadillo/chat-group-web-app) and [Backend](https://github.com/YaelBadillo/chat-group-service) repositories). A real-time group chat application. 
   
 
 <br/>  
