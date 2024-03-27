@@ -79,5 +79,10 @@
 
 ## Github Stats  
 <div style="display: flex; flex-direction: column; gap: 20px;">
+    <div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YaelBadillo&theme=transparent" align="center" /></div>
+    <div align="center" style="display: flex; justify-content: center; gap: 20px;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YaelBadillo&theme=transparent" align="center" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YaelBadillo&theme=transparent" align="center" />
+    </div>
 </div>
 <br />
